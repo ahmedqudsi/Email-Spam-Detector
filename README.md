@@ -24,9 +24,9 @@ Frontend: HTML, CSS (Custom UI)
 
 Dataset: Labeled email spam dataset
 
-⚙️ How to Run Locally
-# Activate virtual environment<br>
+# ⚙️ How to Run Locally
+ Activate virtual environment<br>
 myenv\Scripts\activate<br>
 
-# Run server<br>
+Run server<br>
 python manage.py runserver
