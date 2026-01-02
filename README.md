@@ -17,8 +17,16 @@ No page refresh required for repeated predictions
 
 # 🧠 Tech Stack
 Backend: Django, Python
+
 ML: Scikit-learn, CountVectorizer, Multinomial Naive Bayes
+
 Frontend: HTML, CSS (Custom UI)
+
 Dataset: Labeled email spam dataset
 
 ⚙️ How to Run Locally
+# Activate virtual environment<br>
+myenv\Scripts\activate<br>
+
+# Run server<br>
+python manage.py runserver
